@@ -7,6 +7,7 @@ Project Overview
 This project explores two advanced Generative Adversarial Networks (GANs):
 
 1.CycleGAN – Used for style transfer between Monet paintings and real-world photos.
+
 2.DCGAN – Used for generating images from random noise.
 
 Dataset
